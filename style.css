@@ -1,0 +1,138 @@
+body{
+    background-color: #f5ebdb;
+}
+
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-right: 100px;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+
+.item-menu{
+    margin: 30px;
+    font-size: 35px;
+    text-decoration: none;
+    font-weight: 900;
+    color: #502314;
+    font-family: nunito ;
+}
+
+#banner{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ebc2b4;
+    padding: 90px 0px;
+    margin-bottom: 65px;
+}
+
+#imagem-descricao{
+    border-radius: 15px;
+}
+
+.descricao{
+    width: 800px;
+    font-family: nunito;
+    font-size: 35px;
+    color: #ffffff;
+    text-align: justify;
+    background-color: #502314;
+    padding: 50px;
+    border-radius: 15px;
+
+}
+
+ul{
+
+    margin-left: 40px;
+    font-family: nunito;
+    font-size: 45px;
+    color: #502314;
+    font-weight: 700;
+}
+
+.tabela-hamb{
+    height: 305px;
+    width: 405px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.conteudo{
+    display: flex;
+} 
+
+.title{
+    font-family: nunito;
+    font-size: 35px;
+    color: #502314;
+    font-weight: 600;
+    margin: 45px;
+}
+
+.nomes{
+   font-family: nunito;
+   font-size: 25px;
+   color: #502314;
+   justify-content: center;
+   display: flex;
+   background-color: white;
+   border-radius: 10px;
+   height: 65px;
+ 
+}
+
+.background{
+    background-color:#ebc2b4 ;
+    border-radius: 30px;
+    margin-left: 65px;
+}
+
+#final{
+    background-color: #502314 ;
+    height: 25%;
+    margin-top: 100px;
+}
+
+#conf{
+    font-family: nunito;
+   font-size: 45px;
+   color: #f5ebdb ;
+   justify-content: center;
+   display: flex;
+   margin: 35px;
+   margin-top: 35px;
+}
+
+.redes{
+    height: 30px;
+    width: 30px;
+    margin-left: 25%;
+    margin-top: 65px;
+} 
+
+#link{
+    color: #f5ebdb ;
+    font-size: 55px;
+    font-family: nunito;
+    justify-content: center;
+    display: flex;
+   
+
+}

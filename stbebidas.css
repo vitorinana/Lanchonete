@@ -1,0 +1,109 @@
+body{
+    background-color: #f5ebdb;
+}
+
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+
+
+#logo{
+    width: 60px;
+    height: 60px;
+    margin-right: 100px;
+}
+
+.item-menu{
+    margin: 30px;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 900;
+    color: #502314;
+    font-family: nunito ;
+}
+
+#backfoto1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ebc2b4;
+    padding: 15px;
+    margin-bottom: 55px;
+}
+
+#texto{
+    width: 660px;
+    font-family: nunito;
+    font-size: 24px;
+    color: #ffffff;
+    background-color: #502314;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: justify;
+
+}
+
+#foto1{
+    width: 620px;
+    border-radius: 15px;
+    margin: 15px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.title{
+    font-family: nunito;
+    font-size: 25px;
+    color: #502314;
+    text-align:center;
+}
+
+.conteudo{
+    display: flex;
+}
+
+ 
+.refri{
+    background-color:#ebc2b4 ;
+    border-radius: 30px;
+    margin-left: 65px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.photos{
+    width: 300px;
+    height: 250px;
+}
+
+.names {
+    font-family: nunito;
+    font-size: 20px;
+    color: #502314;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    height: 65px;
+
+}
+
+.title2{
+    font-size: 25px;
+    font-family: nunito;
+    color: #502314 ;
+    text-align: center;
+    margin: 30px;
+
+}
